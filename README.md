@@ -2,7 +2,9 @@
 
 The fiendFinder app is designed to be a match making site like tinder but for friends. Ever move to a new area, start a new job or just plain out looking to meet new people? The FriendFinder app is for you!
 
-FriendFinder has a form that the user completes where they can add their name, upload a photo of themselves and answer 10 personality based questions to determine similarities between other friends. Once the form is completed, the answers to the questions (with a given rating of 1 - 5, where 5 is "strongly agree" and 1 is "strongly disagree") the app compares the results of other users that are stored. It takes the difference between each question, adds them up and the friend with the lowest score is matched. 
+FriendFinder has a form that the user completes where they can add their name, upload a photo of themselves and answer 10 personality based questions to determine similarities between other friends. Once the form is completed, the answers to the questions (with a given rating of 1 - 5, where 5 is "strongly agree" and 1 is "strongly disagree") the app compares the results of other users that are stored. It takes the difference between each question, adds them up and the friend with the lowest score is matched.
+
+![](friendFinder.gif)
 
 
 How does the app works from a technical perspective?
